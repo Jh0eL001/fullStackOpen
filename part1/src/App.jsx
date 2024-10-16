@@ -2,7 +2,7 @@ import './App.css'
 
 const App = () => {
   const friends = [
-    { name: 'Peter', age: 4 },
+    { name: 'Jhoel', age: 4 },
     { name: 'Maya', age: 10 },
   ]
 
